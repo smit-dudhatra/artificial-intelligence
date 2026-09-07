@@ -1,7 +1,5 @@
 # AI, AGI, and Intelligence Benchmarks
 
-**Date:** 2026-09-07
-
 ## Question 1
 
 What is AGI?
