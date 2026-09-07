@@ -76,3 +76,15 @@ To judge a claim of AGI, I’d look for evidence that an AI can:
 - Notice mistakes and recover when things change.
 
 So, when you see “AI scored 95%,” ask: **“95% on which test, with how much help?”** That is different from “95% of the way to AGI.”
+
+## Key Takeaways from ARC Prize
+
+ARC Prize Foundation is a nonprofit advancing open-source artificial general intelligence research through benchmarks & prizes.
+
+**AGI should be judged by how efficiently it learns unfamiliar tasks, rather than just how well it performs familiar ones**
+
+> “AGI is a system that can match the learning efficiency of humans.”
+
+> “Measuring task-specific skill is not a good proxy for intelligence.”
+
+Source: [ARC Prize — Defining AGI](https://arcprize.org/arc-agi#defining-agi)
