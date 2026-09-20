@@ -7,5 +7,11 @@ How RAG Works
 • Augmentation: The system adds the retrieved facts to your original question to create a context-rich prompt. 
 • Generation: The AI model reads the prompt with the added context and writes an accurate, grounded response. [7, 8]  
 
+Glossary
+
+Augment:-
+to increase the amount, value, size, etc. of something
+
+
 
 
